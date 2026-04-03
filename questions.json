@@ -3444,6 +3444,28 @@
     "image_path": null
   },
   {
+    "id": 156,
+    "stem": "A Turkish lady presents with mouth ulcers and sore eyes. Her condition is most likely consistent with?",
+    "options": [
+      "Behcets disease",
+      "Aphthous ulcer",
+      "Herpes simplex infection",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_index": 0,
+    "explanation": "Recurrent oral ulcers with uveitis in a patient from Mediterranean background suggests Behcets disease.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Behcets",
+      "Oral ulcers",
+      "Uveitis",
+      "Vasculitis",
+      "Autoimmune",
+      "2017 CA"
+    ],
+    "image_path": null
+  },
+  {
     "id": 157,
     "stem": "A man presents with abdominal pain haematuria foot drop and a lace like rash with aneurysms on angiography. What would you expect on blood tests?",
     "options": [
