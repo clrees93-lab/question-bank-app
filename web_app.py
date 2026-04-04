@@ -1,3 +1,4 @@
+import random
 import re
 import time
 from typing import List
@@ -246,6 +247,50 @@ def render_mock_timer():
             f"Questions: {total_qs}"
         )
 
+def build_session_questions(selected_questions: list, shuffle_answers: bool = True):
+    """
+    Return session-specific copies of questions.
+    Optionally shuffles answer order while preserving the correct answer logic.
+    """
+    session_questions = []
+
+    for q in selected_questions:
+        # make a shallow copy of the option list
+        options = list(q.options)
+
+        if shuffle_answers and len(options) > 1:
+            # pair each option with whether it is the correct one
+            paired = [
+                (opt, idx == q.correct_index)
+                for idx, opt in enumerate(options)
+            ]
+
+            random.shuffle(paired)
+
+            new_options = [opt for opt, _ in paired]
+            new_correct_index = next(
+                i for i, (_, is_correct) in enumerate(paired) if is_correct
+            )
+        else:
+            new_options = options
+            new_correct_index = q.correct_index
+
+        # create a session copy of the question
+        session_q = q.__class__(
+            id=q.id,
+            stem=q.stem,
+            options=new_options,
+            correct_index=new_correct_index,
+            explanation=q.explanation,
+            specialty=q.specialty,
+            tags=list(q.tags),
+            image_path=q.image_path,
+        )
+
+        session_questions.append(session_q)
+
+    return session_questions
+
 
 # ============================================================
 # Session state initialisation
@@ -338,6 +383,7 @@ elif not st.session_state.started and not st.session_state.session_complete and 
                 st.warning("No questions available for that selection.")
             else:
                 exam_questions = select_questions(pool, specialty=None, num_questions=None)
+                exam_questions = build_session_questions(exam_questions, shuffle_answers=True)
                 start_session("practice", exam_questions)
                 st.rerun()
 
@@ -366,6 +412,7 @@ elif not st.session_state.started and not st.session_state.session_complete and 
                 st.warning("No questions matched your tag search.")
             else:
                 exam_questions = select_questions(pool, specialty=None, num_questions=None)
+                exam_questions = build_session_questions(exam_questions, shuffle_answers=True)
                 start_session("tags", exam_questions)
                 st.rerun()
 
@@ -390,6 +437,7 @@ elif not st.session_state.started and not st.session_state.session_complete and 
                 st.warning("No questions available for that paper selection.")
             else:
                 exam_questions = select_questions(pool, specialty=None, num_questions=None)
+                exam_questions = build_session_questions(exam_questions, shuffle_answers=True)
                 start_session("paper", exam_questions)
                 st.rerun()
 
@@ -422,6 +470,7 @@ elif not st.session_state.started and not st.session_state.session_complete and 
                     st.warning(f"No questions found for '{mock_paper}'.")
                 else:
                     exam_questions = select_questions(pool, specialty=None, num_questions=None)
+                    exam_questions = build_session_questions(exam_questions, shuffle_answers=True)
                     st.session_state.mock_ready = True
                     st.session_state.mock_ready_questions = exam_questions
                     st.session_state.mock_ready_paper = mock_paper
