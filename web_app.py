@@ -285,6 +285,8 @@ def build_session_questions(selected_questions: list, shuffle_answers: bool = Tr
             specialty=q.specialty,
             tags=list(q.tags),
             image_path=q.image_path,
+            explanation_image=q.explanation_image,
+            explanation_video=q.explanation_video,
         )
 
         session_questions.append(session_q)
@@ -553,13 +555,13 @@ elif st.session_state.started:
                     st.write("### Explanation")
                     st.write(q.explanation)
                 
-                if q.explanation_image:
+                if getattr(q, "explanation_image", None):
                     try:
                         st.image(q.explanation_image)
                     except Exception:
                         st.warning(f"Could not load explanation image: {q.explanation_image}")
                 
-                if q.explanation_video:
+                if getattr(q, "explanation_video", None):
                     try:
                         st.video(q.explanation_video)
                     except Exception:
@@ -681,13 +683,13 @@ elif st.session_state.review_mode:
             st.write("### Explanation")
             st.write(q.explanation)
 
-        if q.explanation_image:
+        if getattr(q, "explanation_image", None):
             try:
                 st.image(q.explanation_image)
             except Exception:
                 st.warning(f"Could not load explanation image: {q.explanation_image}")
 
-        if q.explanation_video:
+        if getattr(q, "explanation_video", None):
             try:
                 st.video(q.explanation_video)
             except Exception:
