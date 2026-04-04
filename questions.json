@@ -3193,7 +3193,7 @@
   },
   {
     "id": 145,
-    "stem": "Patients being commenced on azathioprine now often have TPMT levels tested. Those who are poor metabolisers can have build up of metabolites 6 thioguanine and 6 methylmercaptopurine. This can result in detrimental effects due to:",
+    "stem": "Patients being commenced on azathioprine now often have TPMT levels (thiopurine methyltransferase) tested. Those who are poor metabolisers can have build up of metabolites 6-thioguanine (6-TG) and 6-methylmercaptopurine (6-MMP). This can result in detrimental effects due to:",
     "options": [
       "CYP450 induction",
       "Bone marrow suppression",
@@ -3202,14 +3202,14 @@
       "Confusion"
     ],
     "correct_index": 1,
-    "explanation": "Low TPMT activity leads to accumulation of thioguanine metabolites causing dose dependent bone marrow suppression with cytopenias.",
-    "specialty": "Immunology",
+    "explanation": "Azathioprine is inactivated via TPMT. Patients with low or absent TPMT activity accumulate toxic thioguanine metabolites, which damage rapidly dividing marrow precursors and cause potentially severe myelosuppression with leukopenia, anaemia, and thrombocytopenia.",
+    "specialty": "Pharmacology",
     "tags": [
       "Azathioprine",
       "TPMT",
+      "Thiopurine toxicity",
       "Bone marrow suppression",
-      "Thiopurines",
-      "Drug toxicity",
+      "Myelosuppression",
       "2017 MS"
     ],
     "image_path": null
@@ -3225,11 +3225,11 @@
       "Fab portion of IgG"
     ],
     "correct_index": 2,
-    "explanation": "Rheumatoid factor is typically an IgM autoantibody directed against the Fc portion of IgG forming immune complexes.",
+    "explanation": "Rheumatoid factor is usually an IgM autoantibody directed against the Fc portion of IgG. This promotes immune complex formation and contributes to synovial inflammation in rheumatoid arthritis.",
     "specialty": "Rheumatology",
     "tags": [
       "Rheumatoid factor",
-      "IgG Fc",
+      "Fc portion of IgG",
       "Autoantibody",
       "Immune complexes",
       "Rheumatoid arthritis",
@@ -3248,14 +3248,14 @@
       "B cell"
     ],
     "correct_index": 1,
-    "explanation": "Sarcoid granulomas are composed primarily of activated macrophages forming epithelioid cells and giant cells.",
-    "specialty": "Immunology",
+    "explanation": "Sarcoid granulomas are composed mainly of activated macrophages that become epithelioid histiocytes and giant cells. CD4 positive T cells drive the process, but macrophages are the main structural cell within the granuloma.",
+    "specialty": "Respiratory",
     "tags": [
       "Sarcoidosis",
       "Granuloma",
-      "Macrophages",
-      "Non caseating",
-      "Immune response",
+      "Macrophage",
+      "Epithelioid histiocyte",
+      "Non-caseating granuloma",
       "2017 MS"
     ],
     "image_path": null
@@ -3271,21 +3271,21 @@
       "Chronic urticaria"
     ],
     "correct_index": 1,
-    "explanation": "Allergen immunotherapy is most effective for IgE mediated conditions such as allergic rhinitis with clear aeroallergen triggers.",
+    "explanation": "House dust mite immunotherapy is best established for IgE mediated allergic rhinitis. It can also help selected patients with allergic asthma, but rhinitis is the classic and most reliable indication; eczema and chronic urticaria are much less predictably responsive.",
     "specialty": "Immunology",
     "tags": [
-      "Allergic rhinitis",
-      "Immunotherapy",
       "Dust mite",
-      "IgE",
-      "Desensitisation",
+      "Desensitization",
+      "Immunotherapy",
+      "Allergic rhinitis",
+      "IgE mediated allergy",
       "2017 MS"
     ],
     "image_path": null
   },
   {
     "id": 149,
-    "stem": "A patient with HIV is on Tenofovir. He is found to have proteinuria and glycosuria on urinalysis. Diagnosis of Tenofovir related Fanconi syndrome would be most consistent with:",
+    "stem": "A patient with HIV is on Tenofovir. He is found to have proteinuria and glycosuria on urinalysis. Diagnosis of Tenofovir-related Fanconi syndrome would be most consistent with:",
     "options": [
       "Hypokalaemia",
       "Hypomagnesaemia",
@@ -3294,12 +3294,12 @@
       "Hypocalcaemia"
     ],
     "correct_index": 3,
-    "explanation": "Fanconi syndrome causes proximal tubule dysfunction leading to urinary loss of uric acid glucose phosphate and bicarbonate resulting in hypouricaemia.",
+    "explanation": "Tenofovir can cause proximal tubular dysfunction leading to Fanconi syndrome. The proximal tubule normally reabsorbs urate, glucose, phosphate, bicarbonate, and amino acids, so injury causes urinary wasting and is classically associated with hypouricaemia.",
     "specialty": "Infectious Diseases",
     "tags": [
       "Tenofovir",
       "Fanconi syndrome",
-      "Renal tubule",
+      "Proximal tubule",
       "Hypouricaemia",
       "HIV",
       "2017 MS"
@@ -3317,14 +3317,14 @@
       "IgM"
     ],
     "correct_index": 4,
-    "explanation": "IgM is the most potent activator of complement as its pentameric structure efficiently binds C1q.",
+    "explanation": "IgM is the most efficient activator of the classical complement pathway because its pentameric structure allows a single antigen-bound IgM molecule to bind C1q and trigger the cascade. IgG can also activate complement, but usually requires multiple adjacent molecules.",
     "specialty": "Immunology",
     "tags": [
       "IgM",
       "Complement",
       "Classical pathway",
-      "Immunoglobulins",
       "C1q",
+      "Immunoglobulins",
       "2017 MS"
     ],
     "image_path": null
@@ -3339,7 +3339,7 @@
       "Macrophages"
     ],
     "correct_index": 1,
-    "explanation": "Intracellular pathogens are controlled primarily by T cells especially CD8 cytotoxic T cells and Th1 mediated macrophage activation.",
+    "explanation": "Cell mediated immunity is key for intracellular pathogens. CD8 cytotoxic T cells kill infected host cells, while Th1 cells activate macrophages to control intracellular organisms such as mycobacteria.",
     "specialty": "Immunology",
     "tags": [
       "T cells",
@@ -3358,18 +3358,18 @@
       "Inhibition of calcineurin",
       "Binding to FKBP12",
       "Inhibition of inosine monophosphate dehydrogenase",
-      "Inhibition of transcription of pro inflammatory cytokines",
-      "Depletion of CD52 positive cells"
+      "Inhibition of transcription of pro-inflammatory cytokines",
+      "Depletion of CD52-positive cells"
     ],
     "correct_index": 3,
-    "explanation": "Glucocorticoids suppress inflammation by altering gene transcription reducing pro inflammatory cytokines such as IL 1 IL 2 and TNF alpha.",
-    "specialty": "Immunology",
+    "explanation": "Glucocorticoids bind intracellular glucocorticoid receptors and alter gene transcription. They suppress transcription of multiple pro-inflammatory cytokines including IL-1, IL-2, and TNF-alpha, producing broad anti-inflammatory and immunosuppressive effects.",
+    "specialty": "Pharmacology",
     "tags": [
       "Glucocorticoids",
-      "Mechanism",
+      "Mechanism of action",
       "Cytokines",
-      "Immunosuppression",
       "Transcription",
+      "Immunosuppression",
       "2017 MS"
     ],
     "image_path": null
@@ -3381,18 +3381,18 @@
       "Inhibition of calcineurin",
       "Binding to FKBP12",
       "Inhibition of inosine monophosphate dehydrogenase",
-      "Inhibition of transcription of pro inflammatory cytokines",
-      "Depletion of CD52 positive cells"
+      "Inhibition of transcription of pro-inflammatory cytokines",
+      "Depletion of CD52-positive cells"
     ],
     "correct_index": 2,
-    "explanation": "Mycophenolate inhibits IMPDH blocking de novo purine synthesis and selectively reducing T and B cell proliferation.",
-    "specialty": "Immunology",
+    "explanation": "Mycophenolate inhibits inosine monophosphate dehydrogenase, blocking de novo guanine synthesis. Because activated lymphocytes rely heavily on this pathway, it selectively reduces T and B cell proliferation.",
+    "specialty": "Pharmacology",
     "tags": [
-      "Mycophenolate",
+      "Mycophenolate mofetil",
       "IMPDH",
       "Purine synthesis",
+      "Lymphocyte proliferation",
       "Immunosuppression",
-      "Lymphocytes",
       "2017 MS"
     ],
     "image_path": null
@@ -3408,105 +3408,105 @@
       "Neurological"
     ],
     "correct_index": 0,
-    "explanation": "AA amyloidosis most commonly presents with renal involvement causing proteinuria and progressive renal impairment.",
-    "specialty": "Immunology",
+    "explanation": "AA amyloidosis most often first presents with renal disease, especially proteinuria that may become nephrotic range, followed by progressive renal impairment. Macroglossia and marked cardiac involvement are much more typical of AL rather than AA amyloid.",
+    "specialty": "Rheumatology",
     "tags": [
       "AA amyloidosis",
       "Renal",
       "Proteinuria",
+      "Nephrotic syndrome",
       "Amyloid",
-      "Chronic inflammation",
       "2017 CA"
     ],
     "image_path": null
   },
   {
     "id": 155,
-    "stem": "A medical student asks about influenza vaccine with history of egg allergy causing urticaria but tolerates baked egg. What do you advise?",
+    "stem": "A medical student asks you about whether she can take the annual influenza vaccine. As a child she ate scrambled eggs and developed lip swelling and local urticaria. Since then she has avoided all raw or cooked eggs but has eaten eggs in baked goods such as cakes. What do you advise her?",
     "options": [
       "She can never have the influenza vaccine",
       "She can have the influenza vaccine",
       "She must have skin prick testing against egg white",
-      "She should have 1 10 dose of the influenza vaccine",
-      "She should receive the vaccine under observation in hospital"
+      "She should have 1/10 dose of the influenza vaccine",
+      "She should receive the vaccine under observation in a hospital setting"
     ],
     "correct_index": 1,
-    "explanation": "Influenza vaccines are safe in egg allergy and do not require special precautions in most patients.",
+    "explanation": "Influenza vaccination is safe in patients with egg allergy, including those with previous urticaria or angioedema after egg exposure. Routine skin testing, split dosing, or hospital observation is not required in most cases.",
     "specialty": "Immunology",
     "tags": [
       "Influenza vaccine",
       "Egg allergy",
       "Vaccination",
-      "Safety",
       "Allergy",
+      "Immunisation",
       "2017 CA"
     ],
     "image_path": null
   },
   {
     "id": 156,
-    "stem": "A Turkish lady presents with mouth ulcers and sore eyes. Her condition is most likely consistent with?",
+    "stem": "A Turkish lady presents with mouth ulcers, sore eyes. Cannot recall further info. Her condition is most likely consistent with?",
     "options": [
-      "Behcets disease",
-      "Aphthous ulcer",
+      "Behcet’s disease",
+      "Apthous ulcer",
       "Herpes simplex infection",
       "Systemic lupus erythematosus"
     ],
     "correct_index": 0,
-    "explanation": "Recurrent oral ulcers with uveitis in a patient from Mediterranean background suggests Behcets disease.",
+    "explanation": "A patient from a Mediterranean background with recurrent oral ulcers and eye involvement is highly suggestive of Behçet’s disease. Behçet’s classically causes recurrent oral and genital ulceration with uveitis due to a multisystem vasculitic process.",
     "specialty": "Rheumatology",
     "tags": [
-      "Behcets",
+      "Behcets disease",
       "Oral ulcers",
       "Uveitis",
+      "Mediterranean",
       "Vasculitis",
-      "Autoimmune",
       "2017 CA"
     ],
     "image_path": null
   },
   {
     "id": 157,
-    "stem": "A man presents with abdominal pain haematuria foot drop and a lace like rash with aneurysms on angiography. What would you expect on blood tests?",
+    "stem": "A man presents with abdominal pain and haematuria, foot drop, and a lace-like rash on his lower limbs. He is found on abdominal angiography to have multiple aneurysms within the abdomen. What would you expect to find on his blood tests?",
     "options": [
       "Rheumatoid factor",
-      "P ANCA",
-      "C ANCA",
+      "P-ANCA",
+      "C-ANCA",
       "No antibodies",
       "dsDNA"
     ],
     "correct_index": 3,
-    "explanation": "Polyarteritis nodosa is a medium vessel vasculitis that is typically ANCA negative.",
+    "explanation": "This is classic polyarteritis nodosa with medium vessel disease causing mesenteric or renal ischaemia, mononeuritis multiplex, livedo reticularis, and microaneurysms. PAN is characteristically ANCA negative, so no specific autoantibodies are expected.",
     "specialty": "Rheumatology",
     "tags": [
+      "Polyarteritis nodosa",
       "PAN",
-      "Vasculitis",
       "ANCA negative",
-      "Medium vessel",
-      "Livedo reticularis",
+      "Medium vessel vasculitis",
+      "Microaneurysms",
       "2017 CA"
     ],
     "image_path": null
   },
   {
     "id": 158,
-    "stem": "A man with prior amoxicillin allergy requires penicillin and has negative IgE to benzylpenicillin and benzathine penicillin. What management should be advised?",
+    "stem": "A man with previous AV repair for a biscuspid aortic valve. In childhood he had a reaction to amoxicillin, manifesting as urticaria and a rash. He has avoided amoxicillin and any penicillins since. He now requires a dental procedure which needs antibiotic prophylaxis and his cardiologist would like him to be given oral penicillin if able, rather than any other option. The results of his IgE RAST are shown below: Amoxicillin IgE mildly raised Benzathine penicillin IgE 0 (undetectable) Benzylpenicillin IgE 0 (undetectable) What management should be advised?",
     "options": [
       "Give amoxicillin",
-      "Give penicillin without challenge",
+      "Given penicillin as planned without challenge",
       "Skin prick testing to penicillin",
       "Oral challenge to penicillin",
-      "Penicillin desensitisation"
+      "Penicillin desensitization"
     ],
     "correct_index": 3,
-    "explanation": "Oral challenge is the gold standard to confirm or exclude true penicillin allergy when risk is low.",
+    "explanation": "Many patients with childhood penicillin allergy lose sensitisation over time. With negative benzylpenicillin and benzathine penicillin IgE and only mildly raised amoxicillin IgE, the best way to confirm or exclude persistent allergy is a supervised oral penicillin challenge, which is the diagnostic gold standard in a low risk patient.",
     "specialty": "Immunology",
     "tags": [
       "Penicillin allergy",
       "Oral challenge",
       "Drug allergy",
       "IgE",
-      "Desensitisation",
+      "Amoxicillin",
       "2017 CA"
     ],
     "image_path": null

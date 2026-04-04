@@ -1,1 +1,4 @@
-
+cd ~/Documents/question-bank-app
+source venv/bin/activate
+streamlit run web_app.py
+git qpush "your message here"
