@@ -446,7 +446,9 @@ elif st.session_state.started:
         if mode == "mock":
             render_mock_timer()
 
-        st.write(f"Question {current_index + 1} of {total}")
+        progress_fraction = (current_index + 1) / total
+        st.progress(progress_fraction)
+        st.caption(f"Question {current_index + 1} of {total}")
 
         q = exam_questions[current_index]
         option_labels, chosen_label = render_question(q, current_index + 1)
