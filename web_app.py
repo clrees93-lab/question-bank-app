@@ -450,6 +450,16 @@ elif st.session_state.started:
         st.progress(progress_fraction)
         st.caption(f"Question {current_index + 1} of {total}")
 
+        if mode != "mock" and st.session_state.results:
+            correct_so_far, answered_so_far, percent_so_far = calculate_score(st.session_state.results)
+
+            if percent_so_far >= 80:
+                st.success(f"Current accuracy: {percent_so_far:.1f}% ({correct_so_far}/{answered_so_far})")
+            elif percent_so_far >= 60:
+                st.warning(f"Current accuracy: {percent_so_far:.1f}% ({correct_so_far}/{answered_so_far})")
+            else:
+                st.error(f"Current accuracy: {percent_so_far:.1f}% ({correct_so_far}/{answered_so_far})")
+
         q = exam_questions[current_index]
         option_labels, chosen_label = render_question(q, current_index + 1)
 
