@@ -17,7 +17,9 @@
       "Paediatrics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 2,
@@ -39,7 +41,9 @@
       "Oncology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 3,
@@ -60,7 +64,9 @@
       "Pathogenic mutation",
       "2020 MS"
     ],
-    "image_path": "images/q0003.png"
+    "image_path": "images/q0003.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 4,
@@ -81,7 +87,9 @@
       "Respiratory",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 5,
@@ -102,7 +110,9 @@
       "Genetics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 6,
@@ -123,7 +133,9 @@
       "Risk",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 7,
@@ -144,7 +156,9 @@
       "Rheumatology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 8,
@@ -164,7 +178,9 @@
       "Immunology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 9,
@@ -185,7 +201,9 @@
       "Infectious diseases",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 10,
@@ -206,7 +224,9 @@
       "Rheumatology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 11,
@@ -227,7 +247,9 @@
       "Immunology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 12,
@@ -248,7 +270,9 @@
       "Respiratory",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 13,
@@ -268,7 +292,9 @@
       "Cardiology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 14,
@@ -289,7 +315,9 @@
       "Infectious diseases",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 15,
@@ -310,7 +338,9 @@
       "Infectious diseases",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 16,
@@ -331,7 +361,9 @@
       "Haematology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 17,
@@ -354,7 +386,9 @@
       "Neurology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 18,
@@ -374,7 +408,9 @@
       "Neurology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 19,
@@ -395,7 +431,9 @@
       "ICU",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 20,
@@ -417,7 +455,9 @@
       "Renal",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 21,
@@ -438,7 +478,9 @@
       "Rheumatology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 22,
@@ -458,7 +500,9 @@
       "Pharmacology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 23,
@@ -479,7 +523,9 @@
       "Endocrine",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 24,
@@ -500,7 +546,9 @@
       "Genetics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 25,
@@ -520,7 +568,9 @@
       "Oncology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 26,
@@ -540,7 +590,9 @@
       "Cardiology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 27,
@@ -560,7 +612,9 @@
       "Haematology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 28,
@@ -582,7 +636,9 @@
       "Oncology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 29,
@@ -603,7 +659,9 @@
       "Genetics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 30,
@@ -624,7 +682,9 @@
       "Endocrine",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 31,
@@ -645,7 +705,9 @@
       "Genetics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 32,
@@ -665,7 +727,9 @@
       "Endocrine",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 33,
@@ -686,7 +750,9 @@
       "Endocrine",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 34,
@@ -707,7 +773,9 @@
       "Haematology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 35,
@@ -728,7 +796,9 @@
       "Cardiology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 36,
@@ -749,7 +819,9 @@
       "Respiratory",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 37,
@@ -769,7 +841,9 @@
       "Pharmacology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 38,
@@ -790,7 +864,9 @@
       "Immunology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 39,
@@ -812,7 +888,9 @@
       "Cardiology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 40,
@@ -833,7 +911,9 @@
       "Pharmacology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 41,
@@ -853,7 +933,9 @@
       "Renal",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 42,
@@ -873,7 +955,9 @@
       "ID",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 43,
@@ -894,7 +978,9 @@
       "ID",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 44,
@@ -914,7 +1000,9 @@
       "ID",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 45,
@@ -934,7 +1022,9 @@
       "Pharmacology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 46,
@@ -954,7 +1044,9 @@
       "Endocrine",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 47,
@@ -974,7 +1066,9 @@
       "Cardiology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 48,
@@ -995,7 +1089,9 @@
       "Immunology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 49,
@@ -1015,7 +1111,9 @@
       "Haem",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 50,
@@ -1037,7 +1135,9 @@
       "Hepatology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 51,
@@ -1058,7 +1158,9 @@
       "Renal",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 52,
@@ -1078,7 +1180,9 @@
       "Cardiology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 53,
@@ -1098,7 +1202,9 @@
       "ID",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 54,
@@ -1118,7 +1224,9 @@
       "Endocrine",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 55,
@@ -1139,7 +1247,9 @@
       "Renal",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 56,
@@ -1159,7 +1269,9 @@
       "Respiratory",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 57,
@@ -1179,7 +1291,9 @@
       "Genetics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 58,
@@ -1199,7 +1313,9 @@
       "Genetics",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 59,
@@ -1219,7 +1335,9 @@
       "Rheum",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 60,
@@ -1240,7 +1358,9 @@
       "Haem",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 61,
@@ -1261,7 +1381,9 @@
       "Cardio",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 62,
@@ -1281,7 +1403,9 @@
       "Haem",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 63,
@@ -1301,7 +1425,9 @@
       "Neurology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 64,
@@ -1322,7 +1448,9 @@
       "Immunology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 65,
@@ -1343,7 +1471,9 @@
       "Oncology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 66,
@@ -1368,7 +1498,9 @@
       "Resp",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 67,
@@ -1393,7 +1525,9 @@
       "Resp",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 68,
@@ -1418,7 +1552,9 @@
       "Neurology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 69,
@@ -1443,7 +1579,9 @@
       "Neurology",
       "2020 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 70,
@@ -1467,7 +1605,9 @@
       "Respiratory",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 71,
@@ -1491,7 +1631,9 @@
       "Endocrine",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 72,
@@ -1515,7 +1657,9 @@
       "Renal",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 73,
@@ -1539,7 +1683,9 @@
       "Infectious diseases",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 74,
@@ -1563,7 +1709,9 @@
       "Genetics",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 75,
@@ -1586,7 +1734,9 @@
       "Haematology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 76,
@@ -1610,7 +1760,9 @@
       "Rheumatology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 77,
@@ -1633,7 +1785,9 @@
       "Cardiology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 78,
@@ -1656,7 +1810,9 @@
       "Infectious diseases",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 79,
@@ -1680,7 +1836,9 @@
       "Immunology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 80,
@@ -1704,7 +1862,9 @@
       "Pharmacology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 81,
@@ -1728,7 +1888,9 @@
       "Immunology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 82,
@@ -1752,7 +1914,9 @@
       "Oncology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 83,
@@ -1775,7 +1939,9 @@
       "Endocrine",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 84,
@@ -1799,7 +1965,9 @@
       "Immunology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 85,
@@ -1823,7 +1991,9 @@
       "Infectious diseases",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 86,
@@ -1846,7 +2016,9 @@
       "Renal",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 87,
@@ -1869,7 +2041,9 @@
       "Respiratory",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 88,
@@ -1893,7 +2067,9 @@
       "Oncology",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 89,
@@ -1917,7 +2093,9 @@
       "Endocrine",
       "1999 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 90,
@@ -1945,7 +2123,9 @@
       "Adult eczema",
       "2010 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 91,
@@ -1968,7 +2148,9 @@
       "Immune activation",
       "2010 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 92,
@@ -1991,7 +2173,9 @@
       "Contraindication",
       "2010 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 93,
@@ -2014,7 +2198,9 @@
       "Transplant",
       "2010 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 94,
@@ -2036,7 +2222,9 @@
       "Encapsulated organisms",
       "2010 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 95,
@@ -2059,7 +2247,9 @@
       "RAST",
       "2010 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 96,
@@ -2082,7 +2272,9 @@
       "Pharmacogenomics",
       "2010 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 97,
@@ -2105,7 +2297,9 @@
       "Innate immunity",
       "2011 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 98,
@@ -2128,7 +2322,9 @@
       "Recurrent infection",
       "2011 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 99,
@@ -2151,7 +2347,9 @@
       "Type I reaction",
       "2011 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 100,
@@ -2174,7 +2372,9 @@
       "Antibody deficiency",
       "2011 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 101,
@@ -2197,7 +2397,9 @@
       "Seizures",
       "2011 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 102,
@@ -2221,7 +2423,9 @@
       "B cell dysfunction",
       "2011 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 103,
@@ -2244,7 +2448,9 @@
       "Resistance",
       "2011 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 104,
@@ -2268,7 +2474,9 @@
       "Autoimmune",
       "2011 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 105,
@@ -2291,7 +2499,9 @@
       "Primary immunodeficiency",
       "2012 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 106,
@@ -2314,7 +2524,9 @@
       "Adaptive immunity",
       "2012 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 107,
@@ -2337,7 +2549,9 @@
       "Fungal infection",
       "2012 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 108,
@@ -2360,7 +2574,9 @@
       "Hypersensitivity",
       "2012 CA"
     ],
-    "image_path": "images/q0004.png"
+    "image_path": "images/q0004.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 109,
@@ -2383,7 +2599,9 @@
       "Opioid withdrawal",
       "2012 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 110,
@@ -2406,7 +2624,9 @@
       "Immune complexes",
       "2012 CA"
     ],
-    "image_path": "images/q0005.png"
+    "image_path": "images/q0005.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 111,
@@ -2429,7 +2649,9 @@
       "C5b-9",
       "2013 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 112,
@@ -2452,7 +2674,9 @@
       "Humoral immunity",
       "2013 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 113,
@@ -2474,7 +2698,9 @@
       "Immune response",
       "2013 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 114,
@@ -2497,7 +2723,9 @@
       "Cell mediated immunity",
       "2013 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 115,
@@ -2520,7 +2748,9 @@
       "Lymphoproliferative",
       "2013 CA"
     ],
-    "image_path": "images/q0006.png"
+    "image_path": "images/q0006.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 116,
@@ -2543,7 +2773,9 @@
       "Prognosis",
       "2013 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 117,
@@ -2566,7 +2798,9 @@
       "Delayed reaction",
       "2013 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 118,
@@ -2589,7 +2823,9 @@
       "Hypercoagulable",
       "2013 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 119,
@@ -2615,7 +2851,9 @@
       "Small joints",
       "2013 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 120,
@@ -2638,7 +2876,9 @@
       "Allergy testing",
       "2013 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 121,
@@ -2661,7 +2901,9 @@
       "Immune complexes",
       "2013 CA"
     ],
-    "image_path": "images/q0005.png"
+    "image_path": "images/q0005.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 122,
@@ -2684,7 +2926,9 @@
       "Complement",
       "2014 MS"
     ],
-    "image_path": "images/q0007.png"
+    "image_path": "images/q0007.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 123,
@@ -2707,7 +2951,9 @@
       "Hypersensitivity",
       "2014 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 124,
@@ -2730,7 +2976,9 @@
       "Primary immunodeficiency",
       "2014 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 125,
@@ -2753,7 +3001,9 @@
       "CVID",
       "2014 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 126,
@@ -2776,7 +3026,9 @@
       "Infection risk",
       "2014 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 127,
@@ -2799,7 +3051,9 @@
       "B cell proliferation",
       "2014 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 128,
@@ -2822,7 +3076,9 @@
       "Hypersensitivity",
       "2014 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 129,
@@ -2845,7 +3101,9 @@
       "Humoral deficiency",
       "2014 CA"
     ],
-    "image_path": "images/q0008.png"
+    "image_path": "images/q0008.png",
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 130,
@@ -2868,7 +3126,9 @@
       "Innate immunity",
       "2014 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 131,
@@ -2891,7 +3151,9 @@
       "Type IV hypersensitivity",
       "2015 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 132,
@@ -2914,7 +3176,9 @@
       "Secondary immunodeficiency",
       "2015 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 133,
@@ -2937,7 +3201,9 @@
       "Immune tolerance",
       "2015 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 134,
@@ -2960,7 +3226,9 @@
       "Paediatric",
       "2015 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 135,
@@ -2983,7 +3251,9 @@
       "Bradykinin",
       "2015 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 136,
@@ -3006,7 +3276,9 @@
       "Allergy",
       "2015 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 137,
@@ -3029,7 +3301,9 @@
       "Infection",
       "2015 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 138,
@@ -3051,7 +3325,9 @@
       "Immune system",
       "2016 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 139,
@@ -3074,7 +3350,9 @@
       "Central tolerance",
       "2016 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 140,
@@ -3097,7 +3375,9 @@
       "Immunology",
       "2016 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 141,
@@ -3120,7 +3400,9 @@
       "Allergy",
       "2016 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 142,
@@ -3143,7 +3425,9 @@
       "Tryptase",
       "2016 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 143,
@@ -3166,7 +3450,9 @@
       "Primary immunodeficiency",
       "2016 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 144,
@@ -3189,7 +3475,9 @@
       "Recurrent infection",
       "2016 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 145,
@@ -3212,7 +3500,9 @@
       "Myelosuppression",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 146,
@@ -3235,7 +3525,9 @@
       "Rheumatoid arthritis",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 147,
@@ -3258,7 +3550,9 @@
       "Non-caseating granuloma",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 148,
@@ -3281,7 +3575,9 @@
       "IgE mediated allergy",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 149,
@@ -3304,7 +3600,9 @@
       "HIV",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": "images/q0010.png",
+    "explanation_video": "https://www.youtube.com/watch?v=PyJCf10vKLQ"
   },
   {
     "id": 150,
@@ -3327,7 +3625,9 @@
       "Immunoglobulins",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 151,
@@ -3349,7 +3649,9 @@
       "Th1",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 152,
@@ -3372,7 +3674,9 @@
       "Immunosuppression",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 153,
@@ -3395,7 +3699,9 @@
       "Immunosuppression",
       "2017 MS"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 154,
@@ -3418,7 +3724,9 @@
       "Amyloid",
       "2017 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 155,
@@ -3441,7 +3749,9 @@
       "Immunisation",
       "2017 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 156,
@@ -3463,7 +3773,9 @@
       "Vasculitis",
       "2017 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 157,
@@ -3486,7 +3798,9 @@
       "Microaneurysms",
       "2017 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   },
   {
     "id": 158,
@@ -3509,6 +3823,8 @@
       "Amoxicillin",
       "2017 CA"
     ],
-    "image_path": null
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   }
 ]

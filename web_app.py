@@ -552,6 +552,18 @@ elif st.session_state.started:
                 if q.explanation:
                     st.write("### Explanation")
                     st.write(q.explanation)
+                
+                if q.explanation_image:
+                    try:
+                        st.image(q.explanation_image)
+                    except Exception:
+                        st.warning(f"Could not load explanation image: {q.explanation_image}")
+                
+                if q.explanation_video:
+                    try:
+                        st.video(q.explanation_video)
+                    except Exception:
+                        st.warning(f"Could not load explanation video: {q.explanation_video}")
             else:
                 st.info("Answer recorded.")
 
@@ -668,6 +680,18 @@ elif st.session_state.review_mode:
         if q.explanation:
             st.write("### Explanation")
             st.write(q.explanation)
+
+        if q.explanation_image:
+            try:
+                st.image(q.explanation_image)
+            except Exception:
+                st.warning(f"Could not load explanation image: {q.explanation_image}")
+
+        if q.explanation_video:
+            try:
+                st.video(q.explanation_video)
+            except Exception:
+                st.warning(f"Could not load explanation video: {q.explanation_video}")
 
         col1, col2, col3 = st.columns(3)
 

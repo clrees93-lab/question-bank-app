@@ -42,6 +42,8 @@ class Question:
       tags          - list of tags, e.g. ["T1DM", "2020 Paper 1"]
       image_path    - optional path to an associated image file
                       (e.g. "images/q0001.png")
+      explanation_image - optional path to an explanation image file
+      explanation_video - optional path to an explanation video file
     """
     id: int
     stem: str
@@ -51,6 +53,8 @@ class Question:
     specialty: str
     tags: List[str]
     image_path: Optional[str] = None
+    explanation_image: Optional[str] = None
+    explanation_video: Optional[str] = None
 
 
 # =====================================================
@@ -80,6 +84,8 @@ def load_questions_from_json(json_file: str = JSON_FILE) -> List[Question]:
                 specialty=item.get("specialty", "General"),
                 tags=item.get("tags", []),
                 image_path=item.get("image_path"),  # may be None / missing
+                explanation_image=item.get("explanation_image"),  # may be None / missing
+                explanation_video=item.get("explanation_video"),  # may be None / missing
             )
         )
 
@@ -196,6 +202,8 @@ def import_from_csv(
                 tags = []
 
             image_path = (row.get("image_path") or "").strip() or None
+            explanation_image = (row.get("explanation_image") or "").strip() or None
+            explanation_video = (row.get("explanation_video") or "").strip() or None
 
             q = Question(
                 id=q_id,
@@ -206,6 +214,8 @@ def import_from_csv(
                 specialty=specialty,
                 tags=tags,
                 image_path=image_path,
+                explanation_image=explanation_image,
+                explanation_video=explanation_video,
             )
 
             # Replace or add
@@ -243,6 +253,8 @@ def export_to_csv(
         "specialty",
         "tags",
         "image_path",
+        "explanation_image",
+        "explanation_video",
     ]
 
     with open(csv_file, "w", encoding="utf-8", newline="") as f:
@@ -257,6 +269,8 @@ def export_to_csv(
                 "specialty": q.specialty,
                 "tags": ",".join(q.tags),
                 "image_path": q.image_path or "",
+                "explanation_image": q.explanation_image or "",
+                "explanation_video": q.explanation_video or "",
             }
 
             # Write options into option1..option6
