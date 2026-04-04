@@ -3826,5 +3826,280 @@
     "image_path": null,
     "explanation_image": null,
     "explanation_video": null
+  },
+  {
+    "id": 159,
+    "stem": "What is the main purpose of somatic hypermutation in B cells?",
+    "options": [
+      "Deletion of autoreactive B cells.",
+      "Expression of class II MHC.",
+      "Generation of receptor diversity.",
+      "Induction of anergy.",
+      "Selection of high affinity B cells."
+    ],
+    "correct_index": 4,
+    "explanation": "Somatic hypermutation introduces point mutations into the variable regions of immunoglobulin genes in germinal centre B cells, generating clones with varying antigen affinity. These clones are then selected, with high-affinity B cells surviving and expanding while low-affinity cells undergo apoptosis. The net effect is affinity maturation, producing antibodies that bind antigen more effectively over time.",
+    "specialty": "Immunology",
+    "tags": [
+      "Somatic hypermutation",
+      "Affinity maturation",
+      "B cells",
+      "Germinal centre",
+      "Antibody affinity",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 160,
+    "stem": "Tenofovir disoproxil fumarate is used in the management of HIV infection in combination with other antiretrovirals. What is the site of action of tenofovir in the HIV life cycle?",
+    "options": [
+      "HIV binding and entry of cells.",
+      "HIV protease activity.",
+      "HIV reverse transcriptase activity.",
+      "HIV viral assembly.",
+      "Integration of HIV DNA."
+    ],
+    "correct_index": 2,
+    "explanation": "Tenofovir is a nucleotide reverse transcriptase inhibitor that is incorporated into viral DNA during reverse transcription, causing chain termination and preventing conversion of viral RNA into DNA. This blocks an early and essential step in the HIV life cycle before integration into the host genome.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "Tenofovir",
+      "NRTI",
+      "Reverse transcriptase",
+      "HIV lifecycle",
+      "Antiretroviral",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 161,
+    "stem": "Defects in the interleukin 12-dependent interferon gamma pathways are most likely to lead to infection with which organism?",
+    "options": [
+      "Candida albicans.",
+      "Herpes simplex.",
+      "Neisseria meningitidis.",
+      "Non-tuberculous Mycobacterium.",
+      "Staphylococcus aureus."
+    ],
+    "correct_index": 3,
+    "explanation": "The IL-12 to IFN gamma pathway is central to Th1 mediated immunity and macrophage activation against intracellular pathogens. Defects in this pathway impair macrophage killing and predispose to infections with intracellular organisms, particularly non-tuberculous mycobacteria and BCG. In contrast, Candida is linked to Th17 defects, Neisseria to complement deficiency, and Staphylococcus to neutrophil dysfunction.",
+    "specialty": "Immunology",
+    "tags": [
+      "IL12",
+      "IFN gamma",
+      "Th1",
+      "Mycobacteria",
+      "Intracellular pathogens",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 162,
+    "stem": "Which acute-phase protein binds to phospholipid in foreign pathogens or damaged host cells?",
+    "options": [
+      "C-reactive protein.",
+      "Ceruloplasmin.",
+      "Fibrinogen.",
+      "Mannose-binding lectin.",
+      "Serum amyloid A."
+    ],
+    "correct_index": 0,
+    "explanation": "C-reactive protein is an acute phase reactant that binds phosphocholine on microbial membranes and damaged host cells. This binding opsonises targets and activates the classical complement pathway via C1q, contributing to innate immune clearance.",
+    "specialty": "Immunology",
+    "tags": [
+      "CRP",
+      "Acute phase protein",
+      "Complement",
+      "Opsonisation",
+      "Innate immunity",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 163,
+    "stem": "A 19-year-old male is currently in hospital with his third episode of lobar pneumonia due to Streptococcus pneumoniae in the last 2 years. He reports a background of chronic sinus symptoms and frequent bronchitis, and takes 4–6 courses of antibiotics per year. He also reports intermittent nonbloody diarrhoea. Preliminary screening for immunodeficiency shows low IgG low IgA normal IgM and CD19 positive cells 0. What is the most likely diagnosis?",
+    "options": [
+      "Common variable immunodeficiency CVID.",
+      "IgA deficiency.",
+      "Specific antibody deficiency.",
+      "X-linked agammaglobulinaemia.",
+      "X-linked hyper IgM syndrome."
+    ],
+    "correct_index": 3,
+    "explanation": "This patient has recurrent sinopulmonary infections with hypogammaglobulinaemia and, critically, absence of CD19 positive B cells. This indicates failure of B cell maturation due to BTK mutation, consistent with X-linked agammaglobulinaemia. CVID typically has normal or reduced B cells, while hyper IgM has elevated IgM with class switching defects.",
+    "specialty": "Immunology",
+    "tags": [
+      "XLA",
+      "BTK",
+      "B cell absence",
+      "Hypogammaglobulinaemia",
+      "Recurrent infections",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 164,
+    "stem": "In addition to removing the cause, what is the immediate treatment for anaphylaxis?",
+    "options": [
+      "Adrenalin 0.1 mg IV.",
+      "Adrenalin 0.5 mg IV.",
+      "Adrenalin 0.5 mg IM.",
+      "Adrenalin 1 mg IM.",
+      "Adrenalin 5 mg nebulised."
+    ],
+    "correct_index": 2,
+    "explanation": "The first line treatment for anaphylaxis is intramuscular adrenaline 0.5 mg into the anterolateral thigh. This provides rapid alpha mediated vasoconstriction to reverse hypotension and beta effects for bronchodilation. IV adrenaline is reserved for refractory cases due to risk of arrhythmia.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Adrenaline",
+      "IM",
+      "Emergency",
+      "Resuscitation",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 165,
+    "stem": "A 42-year-old Sudanese male is diagnosed with advanced HIV with a CD4 count of 50 cells per microlitre and develops fever and cervical lymphadenopathy one month after starting antiretroviral therapy. What is the most likely cause?",
+    "options": [
+      "Drug reaction.",
+      "Glandular fever.",
+      "HIV-related lymphadenopathy.",
+      "Immune reconstitution inflammatory syndrome IRIS.",
+      "Sarcoidosis."
+    ],
+    "correct_index": 3,
+    "explanation": "This presentation is classic for immune reconstitution inflammatory syndrome, which occurs weeks after starting ART in patients with advanced HIV. As immune function recovers, an exaggerated inflammatory response occurs against latent infections such as EBV, leading to fever and lymphadenopathy.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "IRIS",
+      "HIV",
+      "ART",
+      "Immune recovery",
+      "Lymphadenopathy",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 166,
+    "stem": "A 40-year-old HIV positive man with a CD4 count of 450 cells per microlitre presents with a 3 day history of fever cough sputum production and right lower lobe consolidation on chest x-ray. What is the most likely organism?",
+    "options": [
+      "Methicillin resistant Staphylococcus aureus.",
+      "Mycobacterium avium complex.",
+      "Mycobacterium tuberculosis.",
+      "Pneumocystis jirovecii.",
+      "Streptococcus pneumoniae."
+    ],
+    "correct_index": 4,
+    "explanation": "With a CD4 count above 200 this patient is relatively immunocompetent, so community acquired pneumonia pathogens predominate. The acute presentation with lobar consolidation and productive cough is most consistent with Streptococcus pneumoniae rather than opportunistic infections such as PCP or MAC.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "HIV",
+      "Pneumonia",
+      "Streptococcus pneumoniae",
+      "CD4",
+      "Community acquired infection",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 167,
+    "stem": "A 31-year-old woman has a history of facial swelling with ibuprofen and aspirin. After spraining her ankle she took paracetamol 1 g four times daily and developed facial swelling. What is the best explanation for this?",
+    "options": [
+      "High-dose paracetamol inhibits COX-1.",
+      "Paracetamol causes direct release of mast cell contents.",
+      "She has an IgE-mediated reaction to an excipient common to all three medications.",
+      "She has an underlying non-allergic condition causing angioedema.",
+      "The paracetamol has been cross-contaminated with aspirin or ibuprofen."
+    ],
+    "correct_index": 0,
+    "explanation": "This represents NSAID-exacerbated angioedema due to COX-1 inhibition. Although paracetamol is usually safe, high doses can weakly inhibit COX-1 and trigger symptoms in susceptible individuals. This is a non IgE mediated cross intolerance rather than a true drug allergy.",
+    "specialty": "Immunology",
+    "tags": [
+      "NSAID",
+      "Angioedema",
+      "COX1",
+      "Paracetamol",
+      "Cross intolerance",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 168,
+    "stem": "Patients with drug reaction with eosinophilia and systemic symptoms DRESS syndrome are most likely to have additional involvement of which system in addition to the skin?",
+    "options": [
+      "Cardiovascular.",
+      "Hepatic.",
+      "Neurological.",
+      "Renal.",
+      "Respiratory."
+    ],
+    "correct_index": 1,
+    "explanation": "DRESS syndrome commonly involves internal organs, most frequently the liver, leading to hepatitis and markedly elevated transaminases. It can progress to liver failure, making hepatic involvement the most important systemic complication to monitor.",
+    "specialty": "Immunology",
+    "tags": [
+      "DRESS",
+      "Hepatitis",
+      "Drug reaction",
+      "Eosinophilia",
+      "Systemic involvement",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 169,
+    "stem": "What is the main reason why immunotherapy desensitisation is routinely offered to patients with anaphylaxis caused by insect venom but not to patients with anaphylaxis caused by food?",
+    "options": [
+      "Desensitisation has no effect on food allergies.",
+      "Greater diversity of allergenic epitopes with foods.",
+      "Oral administration is less likely to induce tolerance.",
+      "Risk of anaphylaxis is higher with foods.",
+      "Sustained tolerance is harder to achieve with foods."
+    ],
+    "correct_index": 4,
+    "explanation": "Venom immunotherapy induces durable immune tolerance through regulatory T cells and IgG4 responses, providing long term protection. In contrast food immunotherapy usually results in temporary desensitisation that requires ongoing exposure, with loss of protection if stopped and higher rates of reactions during treatment.",
+    "specialty": "Immunology",
+    "tags": [
+      "Immunotherapy",
+      "Desensitisation",
+      "Venom allergy",
+      "Food allergy",
+      "Tolerance",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   }
 ]
